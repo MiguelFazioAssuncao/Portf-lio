@@ -1,5 +1,5 @@
 h1, h2{
-    font-family: "Bungee", sans-serif;
+    font-family: "Kumar One", serif;
 }
 
 body{
@@ -24,4 +24,11 @@ body, html {
 .alcance{
     max-width: 600px; /* Define a largura máxima */
     margin: 0 auto; /* Centraliza o elemento */
+}
+
+.botão{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+
 }
